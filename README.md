@@ -40,7 +40,7 @@ a tumor of melanin-forming cells, especially a malignant tumor associated with s
 4. Diameter - greater than 6 mm in size (pencil eraser)
 5. Evolving - recent changes in size, shape or color.
 
-"Another clinical finding associated with melanoma is the “ugly duckling sign”, also called outliers. This refers to a mole that differs significantly in appearance from other moles on the patient; such moles are more likely to be a melanoma. In a prospective study using unaided and dermoscopic images, the ugly duckling sign was more sensitive when defined as any lesion perceived as different from other moles. It was more specific when defined as any lesion perceived as completely different.5
+"Another clinical finding associated with melanoma is the “ugly duckling sign”, also called outliers. This refers to a mole that differs significantly in appearance from other moles on the patient; such moles are more likely to be a melanoma. In a prospective study using unaided and dermoscopic images, the ugly duckling sign was more sensitive when defined as any lesion perceived as different from other moles. It was more specific when defined as any lesion perceived as completely different.
 
 "Dermoscopy is an office technique in which a magnifier is placed on skin that is covered with liquid. By using cross-polarized light, it is possible to see structures in the epidermis and superficial dermis that are not visible to the naked eye, thus allowing for better recognition of the ABCD signs of melanoma."[3]
 
