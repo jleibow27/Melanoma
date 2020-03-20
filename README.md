@@ -62,6 +62,7 @@ The dataset was then classified into 2 classes:
 And uploaded to Kaggle.com.  [Click here](https://www.kaggle.com/drscarlat/melanoma) to link to the dataset.
 
 ![Dataset Bar Chart](./present_images/presentation-bar-chart-EDA.png)
+![prototype](./present_images/prototype.png)
 
 ## My Model:
 A Convolutional Neural Network (CNN) that incorporates a pre-trained CNN model known as ResNet50.  
